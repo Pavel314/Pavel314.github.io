@@ -241,8 +241,8 @@ function DrawLegend()
 	if (isEnd)
 		a=-turn_begin;
 	
-	var txt2=' ';
-	if (a==-1) txt2='Õ';
+	var txt2='–ö';
+	if (a==-1) txt2='–ù';
 	ctx.fillText(txt2,canvOffX+16, canv.height);
 }
 
