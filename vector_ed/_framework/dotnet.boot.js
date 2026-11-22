@@ -1,7 +1,7 @@
 export const config = /*json-start*/{
   "mainAssemblyName": "t7_comp_graphWeb.dll",
   "resources": {
-    "hash": "sha256-GA/mpGoVXSy86MZmYa3Q7rjyjHoVWqZzXihkuackC6I=",
+    "hash": "sha256-V/7Hv0cfwYnnj2fOCLodjg4gAeV+zkwIhpEzKokhHbY=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.js"
@@ -15,7 +15,7 @@ export const config = /*json-start*/{
     "wasmNative": [
       {
         "name": "dotnet.native.wasm",
-        "hash": "sha256-ZfJ8o/gu0/5UQRKDJBCqGBVjH9F2gDj57JsrdKgn2Jg="
+        "hash": "sha256-TigfMGFc7DSvN8j5Ob1iy74eakfwictSfFVVFBg046s="
       }
     ],
     "coreAssembly": [
@@ -87,7 +87,7 @@ export const config = /*json-start*/{
       {
         "virtualPath": "t7_comp_graphWeb.wasm",
         "name": "t7_comp_graphWeb.wasm",
-        "hash": "sha256-NEIsmgbmqS8LZOyQx2KhU+C9liCNre1S4sNw5zHyr4U="
+        "hash": "sha256-XXrNcOn1bKY+audo2Spax5iKute8Vhkkbe3KM2LRdlk="
       }
     ],
     "assembly": []
